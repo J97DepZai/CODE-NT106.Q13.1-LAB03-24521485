@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\bai06_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai06_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\bai06_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai06_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\bai06_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai06_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\lab3\\lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|c:\\users\\quoc\\desktop\\lab3\\lab3\\lab3\\bai06_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3022E4-C8FA-4CC6-8F6E-2130F6718EEE}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai06_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai06_Client.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Client.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai06_Client.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Client.cs*",
+              "RelativeToolTip": "Lab3\\Bai06_Client.cs*",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAIwLMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:15:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai06.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai06.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06.cs [Design]",
+              "RelativeToolTip": "Lab3\\Bai06.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:32:03.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai06_Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Client.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai06_Client.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Client.cs [Design]*",
+              "RelativeToolTip": "Lab3\\Bai06_Client.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:21:05.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai06_Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Server.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai06_Server.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Server.cs [Design]",
+              "RelativeToolTip": "Lab3\\Bai06_Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:21:08.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab03.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Lab03.cs",
+              "RelativeDocumentMoniker": "Lab3\\Lab03.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Lab03.cs [Design]",
+              "RelativeToolTip": "Lab3\\Lab03.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:37:42.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab03.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Lab03.cs",
+              "RelativeDocumentMoniker": "Lab3\\Lab03.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Lab03.cs",
+              "RelativeToolTip": "Lab3\\Lab03.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:39:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai06_Server.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Server.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai06_Server.cs",
+              "ToolTip": "C:\\Users\\Quoc\\Desktop\\lab3\\Lab3\\Lab3\\Bai06_Server.cs",
+              "RelativeToolTip": "Lab3\\Bai06_Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:21:13.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
